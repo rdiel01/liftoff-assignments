@@ -12,13 +12,23 @@ I am going to create an web application that will be used to manage a small rest
 The main user would be my sister that owns a restaurant. She current has to go into the store to do inventory and place orders on her days off. My plan is to create a way for any of her managers to be able to update the inventory and then she would be able to place the orders from her home on her days off. The added benefit of offer some backlog information will provide insight in to what has been order in the past and help with deciding what she may need to order.
 
 ### Features
-DB
-search
-Auto ordering population/logic
-email orders
-User login/admin privileges 
+Search -
+User will be able to search for products by type (meat, produce, veggie, fruit, etc) and category (breakfast, lunch, dinner, appitizer, beverage etc)
+
+Auto ordering population/logic - 
+User will set minimum and maximum quantites for items that will be used to determine if a item needs to be ordered and how much should be ordered
+
+email orders-
+User will be able to create an order that will be auto populated with all items who's quantities are equal or below their individual minimum counts. The order will set the amount to order equal to the difference of the maximum amount and current amount of each item. User will also be able to edit the order by adding or removing items and increasing or decrease quantitie as needed to meet their needs.
+
+User login/admin privileges
+There will be two types of users. a basic user will only be able to update inventory quantites. The power/admin user will be able to update inventory quantites, add new items, remove items, place orders, update item min/max.
+
 Backlog/reports
+The user will be able to view a backlog of what has been ordered in the past. For example they could see what was ordered this week last year.
+
 food supplier API for prices and products
+The application would have access to the restaurants food supplier(s) API and would have access to product information and prices. This would be used to inform the user of how much money thye have in their current inventory.
 
 ### Technologies
 Java
@@ -30,3 +40,6 @@ javascript
 
 ### What I'll Have to Learn
 javascript
+
+###Project Tracker
+Git hub projects
