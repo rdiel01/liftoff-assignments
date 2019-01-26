@@ -23,4 +23,5 @@ For this assignment, you'll create some initial plans for your project.
 ### Project Repo Link
 
 (Include a link to your project on GitHub)
+
 [inventory_manager GitHub Repo](https://github.com/rdiel01/inventory_manager)
