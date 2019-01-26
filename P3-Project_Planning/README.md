@@ -15,13 +15,13 @@ For this assignment, you'll create some initial plans for your project.
 * [add item wireframe](https://github.com/rdiel01/liftoff-assignments/blob/master/P3-Project_Planning/add_wireframe.pdf)
 
 ![image of invetory wireframe]
-(https://github.com/rdiel01/liftoff-assignments/blob/master/P3-Project_Planning/invetory_wireframe.png)
+(https://github.com/rdiel01/liftoff-assignments/blob/master/P3-Project_Planning/invetory_wireframe.png?raw=true)
 
 ![image of order wireframe]
-(https://github.com/rdiel01/liftoff-assignments/blob/master/P3-Project_Planning/order_wireframe.png)
+(https://github.com/rdiel01/liftoff-assignments/blob/master/P3-Project_Planning/order_wireframe.png?raw=true)
 
 ![image of item wireframe]
-(https://github.com/rdiel01/liftoff-assignments/blob/master/P3-Project_Planning/add_wireframe.png)
+(https://github.com/rdiel01/liftoff-assignments/blob/master/P3-Project_Planning/add_wireframe.png?raw=true)
 
 ### Project Tracker
 
