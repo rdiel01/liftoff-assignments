@@ -10,9 +10,9 @@ For this assignment, you'll create some initial plans for your project.
 
 (Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
 
-* [inventory wireframe](https://github.com/rdiel01/liftoff-assignments/blob/master/P3-Project_Planning/invetory_wireframe.pdf)
-* [order wireframe](https://github.com/rdiel01/liftoff-assignments/blob/master/P3-Project_Planning/order_wireframe.pdf)
-* [add item wireframe](https://github.com/rdiel01/liftoff-assignments/blob/master/P3-Project_Planning/add_wireframe.pdf)
+* [inventory wireframe](https://github.com/rdiel01/liftoff-assignments/blob/master/P3-Project_Planning/invetory_wireframe.png)
+* [order wireframe](https://github.com/rdiel01/liftoff-assignments/blob/master/P3-Project_Planning/order_wireframe.png)
+* [add item wireframe](https://github.com/rdiel01/liftoff-assignments/blob/master/P3-Project_Planning/add_wireframe.png)
 
 ### Project Tracker
 
